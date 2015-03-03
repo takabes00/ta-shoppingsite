@@ -1,0 +1,14 @@
+# pack-refs with: peeled 
+1f7a033c597b0ed7626f6d9d23ebc31d853c2403 refs/heads/0-11-x
+3b278507efe6b635b352e302a54a8877725cb0ee refs/heads/1-0-stable
+8e5fac33a2b560e97c58b31339e4c5c147155f06 refs/heads/1-2-stable
+752eb67204e9c5a4e22b62591a8fd55fe2285e43 refs/heads/1-3-stable
+3a3538cd3510a0e23153df894d501e682c6fc2cb refs/heads/2-0-stable
+f763e12f4e01f7d6df7341eddc89a24102c07a66 refs/heads/2-1-stable
+21735e341f89a3a02845055a248dc1d13e40c4c9 refs/heads/2-2-stable
+64835ab2e907f4fea0331dee86df6b56555fc31c refs/heads/2-3-stable
+3bd3ca824c4dcf0484795befeb726589e45353d5 refs/heads/2-4-stable
+e888a2e2e07a1e94f5d2d78ac1f9d95781811c73 refs/heads/3-0-stable
+2886975c923be11d15af250312cbdd348f43c0aa refs/heads/master
+fbc189009e376ae919706fd1e96456c9182677a0 refs/heads/namespace-i18n-locale-entries
+7e70b1e6d1c91990d5602c26d404bb781034624f refs/heads/russian_errors_translation

@@ -1,5 +1,5 @@
 == README
-
+```
 git clone https://github.com/takabes00/ta-shoppingsite.git
 cd ta-shoppingsite
 rbenv local 2.2.0
@@ -8,7 +8,7 @@ bundle install --path vendor/bundler
 bundle exec rake db:create
 bundle exec rake db:schema:load
 bundle exec rake db:migrate
-
+```
 * Ruby version
 
 * System dependencies

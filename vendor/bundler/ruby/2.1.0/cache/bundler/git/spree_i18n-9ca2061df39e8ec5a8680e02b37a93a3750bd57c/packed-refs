@@ -1,0 +1,16 @@
+# pack-refs with: peeled 
+1f7a033c597b0ed7626f6d9d23ebc31d853c2403 refs/heads/0-11-x
+3b278507efe6b635b352e302a54a8877725cb0ee refs/heads/1-0-stable
+8e5fac33a2b560e97c58b31339e4c5c147155f06 refs/heads/1-2-stable
+752eb67204e9c5a4e22b62591a8fd55fe2285e43 refs/heads/1-3-stable
+3a3538cd3510a0e23153df894d501e682c6fc2cb refs/heads/2-0-stable
+f763e12f4e01f7d6df7341eddc89a24102c07a66 refs/heads/2-1-stable
+acea7ce06d6a422e4159f74961e9514335901d11 refs/heads/2-2-stable
+71ea34679736134741f63f37f0e4b2e19d4efe2a refs/heads/2-3-stable
+0492a2c436e98bb72d8723dd8a5351884f261a8f refs/heads/2-4-stable
+7ceeafba2eabe7e16485c8083f366cd180c42189 refs/heads/3-0-ransack-translations
+b34de934f320063e7ed0f3a299bd396828b3322d refs/heads/3-0-stable
+4dcd6baa2762526ccbdcc6be4f78f8a934ecea99 refs/heads/master
+fbc189009e376ae919706fd1e96456c9182677a0 refs/heads/namespace-i18n-locale-entries
+1a97a29485776389773eb4c736c623e0c5c998c9 refs/heads/ransack-translations
+7e70b1e6d1c91990d5602c26d404bb781034624f refs/heads/russian_errors_translation

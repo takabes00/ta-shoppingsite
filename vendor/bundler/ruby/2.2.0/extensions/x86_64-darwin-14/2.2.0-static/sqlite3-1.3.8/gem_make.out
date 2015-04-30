@@ -1,0 +1,42 @@
+/Users/takabes00/.rbenv/versions/2.2.0/bin/ruby -r ./siteconf20150430-8489-5z46eq.rb extconf.rb
+checking for sqlite3.h... yes
+checking for sqlite3_libversion_number() in -lsqlite3... yes
+checking for rb_proc_arity()... yes
+checking for sqlite3_initialize()... yes
+checking for sqlite3_backup_init()... yes
+checking for sqlite3_column_database_name()... no
+checking for sqlite3_enable_load_extension()... no
+checking for sqlite3_load_extension()... no
+checking for sqlite3_open_v2()... yes
+checking for sqlite3_prepare_v2()... yes
+checking for sqlite3_int64 in sqlite3.h... yes
+checking for sqlite3_uint64 in sqlite3.h... yes
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling backup.c
+compiling database.c
+compiling exception.c
+compiling sqlite3.c
+compiling statement.c
+statement.c:261:11: warning: implicit declaration of function 'RBIGNUM' is invalid in C99 [-Wimplicit-function-declaration]
+      if (RBIGNUM_LEN(value) * SIZEOF_BDIGITS <= 8) {
+          ^
+./sqlite3_ruby.h:16:24: note: expanded from macro 'RBIGNUM_LEN'
+#define RBIGNUM_LEN(x) RBIGNUM(x)->len
+                       ^
+statement.c:261:11: error: member reference type 'int' is not a pointer
+      if (RBIGNUM_LEN(value) * SIZEOF_BDIGITS <= 8) {
+          ^~~~~~~~~~~~~~~~~~
+./sqlite3_ruby.h:16:36: note: expanded from macro 'RBIGNUM_LEN'
+#define RBIGNUM_LEN(x) RBIGNUM(x)->len
+                       ~~~~~~~~~~  ^
+statement.c:261:32: error: use of undeclared identifier 'SIZEOF_BDIGITS'
+      if (RBIGNUM_LEN(value) * SIZEOF_BDIGITS <= 8) {
+                               ^
+1 warning and 2 errors generated.
+make: *** [statement.o] Error 1
+
+make failed, exit code 2

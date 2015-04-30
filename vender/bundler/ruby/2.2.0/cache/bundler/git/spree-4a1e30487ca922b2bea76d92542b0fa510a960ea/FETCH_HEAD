@@ -7,11 +7,11 @@ d480e8d03815b5220b02527b47f9f3b5a7d5c625		branch '1-2-stable' of git://github.co
 cdb4c5a50a58acc50620877954f8b17986e2bd4a		branch '2-1-stable' of git://github.com/spree/spree
 0b5f3d4738e7ecfb1f8919e0391dea852dc708c6		branch '2-2-stable' of git://github.com/spree/spree
 89586c7e299614c54a79e662a51c1f15df0e4f6b		branch '2-3-stable' of git://github.com/spree/spree
-856cf789714ac6d8dc453b72ac9271aa4717edb7		branch '2-4-stable' of git://github.com/spree/spree
-0824b2d2d7eb75cab5164aa82c910830218eec82		branch '3-0-stable' of git://github.com/spree/spree
+b5ff54587cf40e154bbe3086727dac65fcb3e4e4		branch '2-4-stable' of git://github.com/spree/spree
+acfbfc55636118d99e7529270e3e05321bd9ceda		branch '3-0-stable' of git://github.com/spree/spree
 0acac8e4570b1892cf7e06a81a3735afd4c30e8f		branch 'add-store-credits' of git://github.com/spree/spree
 5a736f7e6848a9aac19fcc09884d4e6fae5a5e05		branch 'ember' of git://github.com/spree/spree
-c6e13a33d78911b5602a4276b0a4cee26335edfd		branch 'master' of git://github.com/spree/spree
+8147dcaac7c6b9a8c93499c813987bbf9f6b00cf		branch 'master' of git://github.com/spree/spree
 a00e4fbd96fbbf521f38850dfb79b07aa0e214a7	not-for-merge	tag 'v.2.2.8' of git://github.com/spree/spree
 808b99c8a1975d35c339db4d1162ebb3d29a15be	not-for-merge	tag 'v0.10.0' of git://github.com/spree/spree
 b00d738e6428361186a92055317577fb294d4834	not-for-merge	tag 'v0.10.0.beta' of git://github.com/spree/spree
